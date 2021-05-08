@@ -1,0 +1,10 @@
+[package]
+name = "zellig-plugin-time-logger"
+version = "0.1.0"
+authors = ["Benjamin Lannon <benjamin@lannonbr.com>"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.19"
+zellij-tile = "0.7.0"
